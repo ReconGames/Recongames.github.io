@@ -30,4 +30,5 @@
   #buttonDiv21 {
     width: 100vw;
 height: auto;
+max-width: 100vw;
 display: flex;  }
